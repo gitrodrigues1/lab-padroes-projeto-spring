@@ -1,4 +1,4 @@
-# Project Name: Lab Padrões de Projeto Spring
+# Lab Padrões de Projeto Spring
 
 ## Descrição
 Este projeto é um laboratório para explorar e perceber os padrões de design utilizados pelo framework Spring. 
